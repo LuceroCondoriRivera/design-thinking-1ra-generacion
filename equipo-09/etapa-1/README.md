@@ -13,12 +13,11 @@ Claudia Lucía Torres Zárate
 Lucero Condori Rivera
 
 Describa en una sola frase el planteamiento del problema, tomando en cuenta tus aprendizajes desde la entrevista que completaste esta semana:
-
+Madres que dejaron de trabajar para cuidar a sus hijos/ser amas de casa y que ahora desean reincorporarse al ámbito laboral.
 
 ## Sintetización de Apuntes Tomados durante tu Entrevista
 
 A continuación, inserta aquí una imagen de la sintetización de tus apuntes a tu carpeta grupal Github: 
-
 
 ![Notas](https://user-images.githubusercontent.com/28910027/226510453-f9b12122-a0bd-46e1-90f4-2a4deff2d8e3.png)
 
